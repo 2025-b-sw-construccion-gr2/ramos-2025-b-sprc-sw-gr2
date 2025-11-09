@@ -1,0 +1,6 @@
+[submodule "sprc-suma"]
+	path = sprc-suma
+	url = https://github.com/2025-b-sw-construccion-gr2/sprc-suma.git
+[submodule "sprc-resta"]
+	path = sprc-resta
+	url = https://github.com/2025-b-sw-construccion-gr2/sprc-resta.git
